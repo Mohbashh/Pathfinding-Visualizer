@@ -14,7 +14,8 @@ menu_text = "Welcome to my pathfinding visualizer! \n" \
 			"finding you can press space bar to visualize A*, D will \n" \
 			"visualize Depth First Search, B will visualize Breadth \n" \
 			"First Search, and G will visualize Greedy-Best-First search. \n" \
-			"If you need to return here just hit M"
+			"Finally, C will clear the board. If you need to return \n" \
+			"here just hit M"
 
 WIDTH = 900
 WIN = pygame.display.set_mode((WIDTH, WIDTH))
