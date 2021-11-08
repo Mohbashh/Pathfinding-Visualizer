@@ -12,6 +12,7 @@ G - Greedy Best First Search <br />
 [SPACE] - A* search <br />
 
 M - menu with all the instructions from above
+C - Clears the board
 
 # Requirements
 import pygame <br />
